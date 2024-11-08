@@ -1,5 +1,5 @@
-const apiKey = '9d9717ce3eeee0dc7145b6c1';
-const apiURL = ` https://v6.exchangerate-api.com/v6/${apiKey}/latest/`;
+const apiKey = '03db3e16fdd094a02adb6efe';
+const apiURL = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/`;
  
 // função para buscar taxa de cambio da API
 async function getExchangeRate(deMoeda, paraMoeda){
